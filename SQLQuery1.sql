@@ -28,4 +28,4 @@ END
 
 SELECT * FROM USUARIOS
 
-SP_AGREGARUSUARIO 'Edurvi', 'Mundobob2000', 'edurviggez'
+SP_AGREGARUSUARIO 'Edurvi', 'fgdgd', 'edurviggez'
